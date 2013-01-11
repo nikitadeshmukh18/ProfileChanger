@@ -1,4 +1,4 @@
-package com.example.ProfileChanger;
+package com.example.profile_changer;
 
 import android.app.Activity;
 import android.os.Bundle;
